@@ -1,0 +1,8 @@
+D:/codes/wol/windows/CMakeFiles/configure_util.dir
+D:/codes/wol/windows/CMakeFiles/network_watch.dir
+D:/codes/wol/windows/CMakeFiles/wake_on_lan.dir
+D:/codes/wol/windows/CMakeFiles/main.dir
+D:/codes/wol/windows/CMakeFiles/receive.dir
+D:/codes/wol/windows/CMakeFiles/send.dir
+D:/codes/wol/windows/CMakeFiles/edit_cache.dir
+D:/codes/wol/windows/CMakeFiles/rebuild_cache.dir

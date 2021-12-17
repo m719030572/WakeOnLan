@@ -1,0 +1,2 @@
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ar.exe qc libnetwork_watch.a CMakeFiles/network_watch.dir/network_watch.cpp.obj
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ranlib.exe libnetwork_watch.a

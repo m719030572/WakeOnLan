@@ -1,0 +1,2 @@
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ar.exe qc libwake_on_lan.a CMakeFiles/wake_on_lan.dir/wake_on_lan.cpp.obj
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ranlib.exe libwake_on_lan.a

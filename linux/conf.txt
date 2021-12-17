@@ -1,0 +1,2 @@
+mac=B42E99EFAC58
+port=15000

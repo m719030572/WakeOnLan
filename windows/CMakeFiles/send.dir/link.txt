@@ -1,0 +1,3 @@
+"C:\Program Files\CodeBlocks\MinGW\bin\cmake.exe" -E rm -f CMakeFiles\send.dir/objects.a
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ar.exe qc CMakeFiles\send.dir/objects.a @CMakeFiles\send.dir\objects1.rsp
+C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\send.dir/objects.a -Wl,--no-whole-archive -o send.exe -Wl,--out-implib,libsend.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\send.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+D:/codes/wol/build/CMakeFiles/main.dir
+D:/codes/wol/build/CMakeFiles/edit_cache.dir
+D:/codes/wol/build/CMakeFiles/rebuild_cache.dir
